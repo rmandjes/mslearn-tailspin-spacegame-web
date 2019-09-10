@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/ronmandjes/ronmandjes/_apis/build/status/rmandjes.mslearn-tailspin-spacegame-web?branchName=master)](https://dev.azure.com/ronmandjes/ronmandjes/_build/latest?definitionId=1&branchName=master)
 
 # Contributing
 
